@@ -1,0 +1,1 @@
+makelib "D:\BadProjects\BadCode\Steamy\src\main.c" "D:\BadProjects\BadCode\Steamy\src\build"
